@@ -1,0 +1,36 @@
+/* All paragraphs need to be font size 12, needs to be justifiy aligned, cursive and white.*/
+
+
+p
+{
+	text-align: justify;
+	font-size: 12pt;
+	font-family:"Apple Chancery", cursive;
+	color: Blue;
+}
+
+h1
+{	
+	font-size: 16pt;
+	font-family:Luminari, fantasy;
+	color:LightCoral;
+       
+}
+
+h2
+{
+	font-size:14pt;
+	font-family:Snell Roundhand, cursive;
+	color:Plum;
+}
+
+body 
+{
+    background-image:url("leaf.jpg");
+} 
+
+.center
+{ 	text-align:center
+	color: pink	
+}
+
