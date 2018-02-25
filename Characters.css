@@ -1,0 +1,216 @@
+body{
+
+            margin: 0;
+
+            padding: 0;
+
+        }    
+
+        #box1{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(DISNEYPRINCESS.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+
+        #box2{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(MICKEYMOUSE.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+
+        #box3{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(TOYSTORY.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+ 	#box4{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(HERO.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+ 	#box5{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(LILOANDSTICH.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+	#box6{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(SIMBA.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+	#box7{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(STAR WARS.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+	#box8{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(AVENGERS.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+	#box9{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(GALAXY.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+   
+	#box10
+	{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(DESCENDANTS.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+	#box10
+	{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(DESCENDANTS.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+
+	#box11
+	{
+
+            height: 100vh;
+
+            width: 100%;
+
+            background-image: url(DESCENDANTS.jpg);
+
+            background-size: cover;
+
+            display: table;
+
+            background-attachment: fixed;
+
+        }
+
+
+
+
+        h1{
+
+            font-family: fantasty;
+
+            font-size: 40px;
+
+            color:Black;
+
+            margin: 0px;
+
+            text-align: center;
+
+            display: table-cell;
+
+            vertical-align: middle;
+
+        }
