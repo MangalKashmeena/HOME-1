@@ -1,0 +1,45 @@
+/* All paragraphs need to be font size 12, needs to be justifiy aligned, cursive and lemonchiffon. The heading 2 needs to be white and size 14. The heading
+1 must be a lightcoral. Heading 3 must be #B2004C. All heading must be centered*/
+
+
+p
+{
+	text-align: justify;
+	font-size: 12pt;
+	font-family:"Apple Chancery", cursive;
+	color: lemonchiffon;
+}
+
+h1
+{	
+	text-align: center;
+	font-size: 20pt;
+	font-family:"Luminari", fantasy;
+	color:LightCoral;
+       
+}
+
+h2
+{
+	text-align: center;
+	font-size:14pt;
+	font-family:"Snell Roundhand", cursive;
+	color:white;
+}
+
+body 
+{
+    	background-image:url("Jasmine.jpg");
+	background-size: 1450px 1500px;
+} 
+
+
+
+h3
+{	
+	text-align:center;
+	color:#B2004C;
+	font-family:"American Typewriter", serif;
+}
+
+
