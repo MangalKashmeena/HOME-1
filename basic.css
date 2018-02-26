@@ -1,6 +1,6 @@
  h1
 {
- 	text-alig: center;
+ 	text-align: center;
 	font-size: 40pt;
 	font-family:"Luminari", fantasy;
 	color:aqua;
@@ -16,9 +16,9 @@ h2
 
 .button 
 {
-color: white;
-text-align: center;
-font-size: 26px;
+	color: white;
+	text-align: center;
+	font-size: 26px;
 }
 
 body 
