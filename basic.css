@@ -1,6 +1,6 @@
-h1
+ h1
 {
- 	text-align:center;
+ 	text-alig: center;
 	font-size: 40pt;
 	font-family:"Luminari", fantasy;
 	color:aqua;
@@ -8,7 +8,7 @@ h1
 
 h2
 {
- 	text-align:center;
+ 	text-align: center;
 	font-size: 30pt;
 	font-family:"Luminari", fantasy;
 	color:aliceblue;
@@ -17,7 +17,7 @@ h2
 .button 
 {
 color: white;
-text-align:center;
+text-align: center;
 font-size: 26px;
 }
 
